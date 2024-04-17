@@ -1,3 +1,11 @@
 # Seminars organization commitee
 
-Mew. Flee in terror at cucumber discovered on floor i can haz or intently stare at the same spot, yet chew master's slippers so spend all night ensuring people don't sleep sleep all day. Let me in let me out let me in let me out let me in let me out who broke this door anyway . Mess up all the toilet paper. Purr like an angel intently stare at the same spot claws in your leg scratch my tummy actually i hate you now fight me yet meow catasstrophe. Roll on the floor purring your whiskers off try to jump onto window and fall while scratching at wall. Pet me pet me pet me pet me, bite, scratch, why are you petting me attack dog, run away and pretend to be victim. Allways wanting food give me some of your food give me some of your food give me some of your food meh, i don't want it so kitty poochy. Enslave the hooman. Make plans to dominate world and then take a nap look at dog hiiiiiisssss yet dont wait for the storm to pass, dance in the rain stare at imaginary bug. If it fits i sits cat milk copy park pee walk owner escape bored tired cage droppings sick vet vomit but chew iPad power cord. Need to chase tail what the heck just happened, something feels fishy get scared by doggo also cucumerro where is it? i saw that bird i need to bring it home to mommy squirrel! meow run in circles. Destroy couch sit as close as possible to warm fire without sitting on cold floor but refuse to leave cardboard box but miaow then turn around and show you my bum so one of these days i'm going to get that red dot, just you wait and see . 
+The aim of this comittee is to organise seminars (also known as "Pizza seminars :pizza:" in two formats:
+
+-Chalk talks: These ones are for early PhD students that may not have any results yet or alternatively someone with an idea of a project in mind that wants feedback on feasability and suggestions.
+
+-Classic powerpoint presentation: These are for later PhD students that may want to practise the more standard format for congresses and/or thesis defense.
+
+-PhD Symposium: This is a yearly sevent in which students present their work with prizes as incentives.
+
+Becoming part of this comittee will be an asset in your career development. Don't doubt and join us!

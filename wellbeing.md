@@ -1,4 +1,4 @@
-# Wellbeing/Student care commitee
+# Wellbeing/Student care committee
 
 ## About 🚑
 
@@ -9,7 +9,7 @@ Committee dedicated to the mental health and physical health of PhD students. He
 
 Section on all available healthcare services to MELIS students, includes physical healthcare and mental healthcare as well as guides for international students. Use this as a [first point of contact].
 
-# Psychological support services
+## Psychological support services
 
 
 **SAP**
@@ -41,14 +41,16 @@ has an established protocol for emergencies.
 In that case, the same therapists could intervene and try to help the 
 student.
 
-- *Contacts from the Campus:*
+### Contacts from the Campus:
+
 - *Ciutadella 935421701*
 - *Poblenou 935422201*
 - *Mar 933163501*
 
 
-**STOP: Suicide prevenTion in sOcial Platforms**
-# STOP is a research project that studies **mental health issues on social media through Artificial Intelligence**.
+### STOP: Suicide prevenTion in sOcial Platforms
+
+STOP is a research project that studies **mental health issues on social media through Artificial Intelligence**.
 
 # **🦾 Engineers, Psychologists and Psychiatrist** work together to change the current suicide numbers.
 
@@ -323,15 +325,15 @@ Link: https://www.upf.edu/web/igualtat/contra-la-violencia-masclista-i-lgbtifobi
 # PhD Students Comittee
 
 There is a Committee to tutor and help doctoral students. This 
-committee evaluates relation ship problems and helps in case of need 
+committee evaluates relation ship problems and helps in case of neetd 
 following specific protocols.
 
-You can ask for a meeting by mail: [phdstudentscommittee.melis@upf.edu](mailto:phdstudentscommittee.melis@upf.edu)
+You can ask for a meeting by mail: [phdstudentscommittee.melis@upf.edu](mailto:phdstudentscommittee.melis@upf.edtu)
 
 # Equality and Diversity Inclusion Committee
 
 With members from all six centres at the park, the 
-committee is in charge of catalysing the development of cross-institute 
+committee is in charge of catalysing the development of cross-institutte 
 initiatives and activities to raise awareness and promote a real equal 
 opportunities environment in the whole park. In the link there are the protocols.
 

@@ -1,4 +1,4 @@
-# Welcome week commitee
+# Welcome week committee
 
 Everyone knows that doing a PhD can be daunting to say the least: a big project, new team, different methodologies and most often a whole new city! To help new PhDs navigate these turbolent new waters, the Welcome week commitee is here to hold you hand...figuratively of course.
 

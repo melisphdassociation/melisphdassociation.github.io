@@ -12,7 +12,6 @@
 		{% include head-custom.html %}
 	</head>
 	<body>
-		<img src="assets/images/header.jpg" alt="Header" />
 		<div class="wrapper">
 			<header>
 				<h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -21,7 +20,22 @@
 				{% endif %}
 				<p>{{ site.description | default: site.github.project_tagline }}</p>
 				<h2>📢 Announcements<h2>
-				<p>Website is up and running! 🎉<p>
+				<p style="font-size: 14px; font-weight: normal;" >Website is up and running! 🎉<p>
+				<p style="font-size: 14px; font-weight: normal;" >
+					<a href="training.html">Training commitee</a>
+				<p>
+				<p style="font-size: 14px; font-weight: normal;" >
+					<a href="social.html">Social commitee</a>
+				<p>
+				<p style="font-size: 14px; font-weight: normal;" >
+					<a href="wellbeing.html">Wellbeing/Student care commitee</a>
+				<p>
+				<p style="font-size: 14px; font-weight: normal;" >
+					<a href="welcome.html">Welcome week commitee</a>
+				<p>
+				<p style="font-size: 14px; font-weight: normal;" >
+					<a href="seminars.html">Seminars organization commitee</a>
+				<p>
 			</header>
 			<section>
 			{{ content }}

@@ -9,6 +9,10 @@ Committee dedicated to the mental health and physical health of PhD students. He
 
 Section on all available healthcare services to MELIS students, includes physical healthcare and mental healthcare as well as guides for international students. Use this as a [first point of contact].
 
+</div>
+				<br>
+				<p><a href="psychological.html">Psychological support services</a></p>
+    
 ## Psychological support services
 
 

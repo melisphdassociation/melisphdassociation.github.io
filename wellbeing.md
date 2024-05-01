@@ -7,7 +7,7 @@ Committee dedicated to the mental health and physical health of PhD students. He
 
 </div>
 				<br>
-				<p><a href="psychological.html">Psychological support services</a></p>
+				<a href="psychological.html">Psychological support services</a>
 
 
 # SAP

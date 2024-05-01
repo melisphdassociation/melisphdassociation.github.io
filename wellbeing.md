@@ -1,22 +1,16 @@
 # Wellbeing/Student care committee
 
-## About 🚑
+## Healthcare info 🚑
 
-Committee dedicated to the mental health and physical health of PhD students. Here we collect all available resources for students regarding sports and mental health including information on (in the case of foreign students) how to register in a CAP, how to ask for an appointment, procedures etc. We also include steps on what to do when having issues with their PI or when having cases of abuse and/or discrimination. Please check [Resources and Links](https://pages.github.com/) section below.
+Committee dedicated to the mental health and physical health of PhD students. Here we collect all available resources for students regarding sports and mental health including information on (in the case of foreign students) how to register in a CAP, how to ask for an appointment, procedures etc. We also include steps on what to do when having issues with their PI or when having cases of abuse and/or discrimination. Please check the links bellow as a **first point of contact**. 
 
-
-## Healthcare info
-
-Section on all available healthcare services to MELIS students, includes physical healthcare and mental healthcare as well as guides for international students. Use this as a [first point of contact].
 
 </div>
 				<br>
 				<p><a href="psychological.html">Psychological support services</a></p>
-    
-## Psychological support services
 
 
-**SAP**
+# SAP
 UPF Psychological Support Service (SAP) has the goal of favoring the student adaptation in the college lifestyle, facilitating personal stability and also academic efficiency. Helping the student to understand, think and change facing it’s new reality.
 SAP is addressed to bachelor and postgraduate UPF students that need psychological and psychopedagogical orientation.
 
@@ -45,60 +39,61 @@ has an established protocol for emergencies.
 In that case, the same therapists could intervene and try to help the 
 student.
 
-### Contacts from the Campus:
+**Contacts from the Campus:**
 
 - *Ciutadella 935421701*
 - *Poblenou 935422201*
 - *Mar 933163501*
 
 
-### STOP: Suicide prevenTion in sOcial Platforms
+# STOP: Suicide prevenTion in sOcial Platforms
 
 STOP is a research project that studies **mental health issues on social media through Artificial Intelligence**.
 
-# **🦾 Engineers, Psychologists and Psychiatrist** work together to change the current suicide numbers.
+### **🦾 Engineers, Psychologists and Psychiatrist** work together to change the current suicide numbers.
 
-# 🔍 We find patters related to high risk of **suicide**, **depression** or **eating disorders**. Check all our publications!
+### 🔍 We find patters related to high risk of **suicide**, **depression** or **eating disorders**. Check all our publications!
 
-# 🖤 We launch targeted campaigns on social media addressed to users that match a risk profile. These campaigns offer a 24h hotline for emotional support.
+### 🖤 We launch targeted campaigns on social media addressed to users that match a risk profile. These campaigns offer a 24h hotline for emotional support.
 
-# 📞 We have increased by **60% the calls to the suicide prevention hotline** coming from social media.
+## 📞 We have increased by **60% the calls to the suicide prevention hotline** coming from social media.
 
 Link to page: [STOP](https://stop-project.github.io/)
 
 
-**PRBB choir and orchestra**
+# PRBB choir and orchestra
 
 Throughout the year there are recreational activities for residents of the Barcelona Biomedical research Park (PRBB). If you enjoy singing or playing an instrument please join the **PRBB Choir** and/or the **PRBB Orchestra**. All levels are welcome.
 
 Link: [PRBBmusic](https://prbbmusic.wordpress.com/)
 
-**PRBBwellbeing**
+# PRBBwellbeing
 
 Throughout the year there are recreational activities for residents of the Barcelona Biomedical research Park (PRBB). If you enjoy singing or playing an instrument please join the **PRBB Choir** and/or the **PRBB Orchestra**. All levels are welcome.
 
 Link: [PRBBwellbeing](https://prbbmusic.wordpress.com/)
 
 
-**Researcher Mental Health Observatory**
+# Researcher Mental Health Observatory
 
 ReMO focuses on wellbeing and mental health within academia, a theme of strategic importance for the European Research Area. Previous research shows that low levels of wellbeing and mental health problems have a negative impact on individual, team and organizational performance, triggering significant costs. In addition, institutional context, organizational structure and culture, as well as managerial practices have significant impact on wellbeing and health of employees. Therefore, general insights on the causes of workplace wellbeing and mental health need to be refined with contextual specifics (i.e. in academia) in order to develop tailored, effective and efficient prevention and action programs.
 
 Link: [ReMO](https://projects.tib.eu/remo/action-profile/)
 
 
-**Voluntariat Lingüistic**
+# Voluntariat Lingüistic
 
 A free project for language exchange between two UPF members with different maternal languages. This aims in improving international relationships and mental health.
 
 Link: [LanguageExchange](https://www.upf.edu/web/voluntariat-linguistic/parelles-linguistiques)
 
 
+</div>
+				<br>
+				<p><a href="physical.html">Physical support services</a></p>
 
-# Physical support services
 
-
-# **PRBB Beach Volleyball**
+# PRBB Beach Volleyball
 
 Most popular sport in PRBB which is available to everyone who has or have had a PRBB access card and CMIMA employees (CMIMA includes ICM+UTM+IBE). 
 
@@ -129,7 +124,7 @@ There is a gym membership discount for Claror Marítim Gym of up to 10%.
 Link info to gym: https://claror.cat/club/claror-maritim/
 
 
-# **PRBBwellbeing**
+# PRBBwellbeing
 
 Activities organized by PRBB. Includes PRBBHealthyweek, mental health events, etc.
 
@@ -153,9 +148,10 @@ Although
 
 Link: https://www.espaidemar.cat/
 
+</div>
+				<br>
+				<p><a href="medical.html">Medical guide for International Students</a></p>
 
-
-#### Medical guide for International Students
 
 Before signing up for public healthcare there are previous steps to make. Here we will guide you on each one.
 
@@ -259,7 +255,7 @@ or identity document from the country of origin.
         
         Link: https://catsalut.gencat.cat/ca/coneix-catsalut/acces-sistema-salut/com-accedeix/programacio-visites/
         
-        ## Health emergencies
+        # Health emergencies
         
         Emergency medical assistance is provided in CAPs and hospitals. CAPs deal with most emergencies during normal working hours.
         
@@ -267,7 +263,7 @@ or identity document from the country of origin.
         
         You can also phone 061 (**CatSalut Respon**), a service that covers the entire Catalan region 24 hours a day and 365 days a year. We recommend you phone an emergencies centre before you visit it, to make sure there are not too many patients already there. There are some 200 doctors, nursers and specialists working for this helpline, with experience in providing assistance on the phone and in writing. In addition, it also has a translation and interpreting service.
         
-        ## Hospitals
+        # Hospitals
         
         Barcelona has 58 hospitals (12 of which are public and 46 private). 
         Of its private hospitals, 24 are part of the national healthcare 
@@ -280,7 +276,7 @@ or identity document from the country of origin.
         professionals in the country as well as the latest in medical 
         technology.
         
-        ## Private medical insurance
+        # Private medical insurance
         
         Some people opt for private medical insurance. The advantages are 
         immediate access to specialists, a wider range of professionals 
@@ -295,7 +291,7 @@ or identity document from the country of origin.
         although some refund a percentage of the fees charged by professionals 
         who are not on these lists.
         
-        ## Pharmacies
+        # Pharmacies
         
         If you have a minor health problem, you can go to a pharmacy, where 
         the pharmacists will advise you on the non-prescription medicines you 
@@ -305,8 +301,11 @@ or identity document from the country of origin.
         the night, on weekends and during public holidays. Some even open 24 
         hours a day, seven days a week.
 
-      
-#### Harassment Protocol
+</div>
+				<br>
+				<p><a href="harassment.html">Harassment Protocol</a></p>
+
+
 
 # Discrimination/sexism Contacts
 

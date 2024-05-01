@@ -5,7 +5,7 @@
 Committee dedicated to the mental health and physical health of PhD students. Here we collect all available resources for students regarding sports and mental health including information on (in the case of foreign students) how to register in a CAP, how to ask for an appointment, procedures etc. We also include steps on what to do when having issues with their PI or when having cases of abuse and/or discrimination. Please check the links bellow as a **first point of contact**. 
 
 
-</div>
+
 				<br>
 				<a href="psychological.html">Psychological support services</a>
 
@@ -88,9 +88,8 @@ A free project for language exchange between two UPF members with different mate
 Link: [LanguageExchange](https://www.upf.edu/web/voluntariat-linguistic/parelles-linguistiques)
 
 
-</div>
 				<br>
-				<p><a href="physical.html">Physical support services</a></p>
+				<a href="physical.html">Physical support services</a>
 
 
 # PRBB Beach Volleyball
@@ -149,8 +148,8 @@ Although
 Link: https://www.espaidemar.cat/
 
 </div>
-				<br>
-				<p><a href="medical.html">Medical guide for International Students</a></p>
+				
+				<a href="medical.html">Medical guide for International Students</a>
 
 
 Before signing up for public healthcare there are previous steps to make. Here we will guide you on each one.
@@ -161,7 +160,8 @@ Registering in the municipal register of residents is compulsory for everyone li
 
 In addition, registration is also one of the indispensable requirements to be complied with by people from the European Union, or from countries with which Spain has signed a reciprocity agreement, in order to have the right to vote in local elections.
 
-Requirements: You must be of legal age, reside in the city of Barcelona and not already appear in the city’s register of residents at the time of registration.
+Requirements: You must be of legal age, reside in the city of Barcelona and not already appear in the city’s register of residents at the user: melisphdassociation
+pass:  27112023dtime of registration.
 
 Documents needed: 
 
@@ -301,9 +301,9 @@ or identity document from the country of origin.
         the night, on weekends and during public holidays. Some even open 24 
         hours a day, seven days a week.
 
-</div>
+
 				<br>
-				<p><a href="harassment.html">Harassment Protocol</a></p>
+		<a href="harassment.html">Harassment Protocol</a>
 
 
 

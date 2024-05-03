@@ -40,13 +40,13 @@ student.
 
 STOP is a research project that studies **mental health issues on social media through Artificial Intelligence**.
 
-#### **🦾 Engineers, Psychologists and Psychiatrist** work together to change the current suicide numbers.
+**🦾 Engineers, Psychologists and Psychiatrist** work together to change the current suicide numbers.
 
-#### 🔍 We find patters related to high risk of **suicide**, **depression** or **eating disorders**. Check all our publications!
+🔍 We find patters related to high risk of **suicide**, **depression** or **eating disorders**. Check all our publications!
 
-#### 🖤 We launch targeted campaigns on social media addressed to users that match a risk profile. These campaigns offer a 24h hotline for emotional support.
+🖤 We launch targeted campaigns on social media addressed to users that match a risk profile. These campaigns offer a 24h hotline for emotional support.
 
-#### 📞 We have increased by **60% the calls to the suicide prevention hotline** coming from social media.
+📞 We have increased by **60% the calls to the suicide prevention hotline** coming from social media.
 
 Link to page: [STOP](https://stop-project.github.io/)
 

@@ -9,8 +9,7 @@ Registering in the municipal register of residents is compulsory for everyone li
 
 In addition, registration is also one of the indispensable requirements to be complied with by people from the European Union, or from countries with which Spain has signed a reciprocity agreement, in order to have the right to vote in local elections.
 
-Requirements: You must be of legal age, reside in the city of Barcelona and not already appear in the city’s register of residents at the user: melisphdassociation
-pass:  27112023dtime of registration.
+Requirements: You must be of legal age, reside in the city of Barcelona and not already appear in the city’s register of residents at the time of registration.
 
 Documents needed: 
 
@@ -81,15 +80,15 @@ The medical system in Barcelona works according to your zone of residency. This 
         
 **Online:**
         
-        [Click here](https://salut.gencat.cat/pls/rca/RCAPKTSI.SOLICITAR_TSI) and complete the form.
-        
-        Select the corresponding option with step 2 (Datos personales II and Tipo de Seguro). **Select *CatSalut* if you’re a foreigner**.
-        
-        Step 3 is filling in the information regarding your address and your contact details.
-        
-        Step 4 (Datos de la TSI): select the one that matches your situation.
-        
-        Step 5 (Confirmación): attach a copy of your *empadronamiento* (if necessary) and then click on proceed to complete the registration process.
+> [Click here](https://salut.gencat.cat/pls/rca/RCAPKTSI.SOLICITAR_TSI) and complete the form.
+
+> Select the corresponding option with step 2 (Datos personales II and Tipo de Seguro). **Select *CatSalut* if you’re a foreigner**.
+
+> Step 3 is filling in the information regarding your address and your contact details.
+
+> Step 4 (Datos de la TSI): select the one that matches your situation.
+
+> Step 5 (Confirmación): attach a copy of your *empadronamiento* (if necessary) and then click on proceed to complete the registration process.
         
 # Step 4: Book an appointment
         

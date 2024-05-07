@@ -15,3 +15,8 @@ Committee dedicated to the mental health and physical health of PhD students. He
 
 [📣Harassment Protocol](harassment_protocol.html)
 
+
+
+
+![alt](assets/images/healthcare.jpeg){: width="1000" }
+

@@ -27,11 +27,11 @@
 					{% endfor %}
 				</div>
 				<br>
-				<p><a href="training.html">Training committee</a></p>
-				<p><a href="social.html">Social committee</a></p>
-				<p><a href="wellbeing.html">Wellbeing/Student care committee</a></p>
-				<p><a href="welcome.html">Welcome week committee</a></p>
-				<p><a href="seminars.html">Seminars organization committee</a></p>
+				<div class="commitees">
+					{% for committee in site.committees %}
+						<p><a href="{{ committe[1] | replace: ".md", ".html" | relative_url }}">{{ committe[0] }}</a>
+					{% endfor %}
+				</div>
 			</nav>
 			<main class="main-content">
 				{{ content }}

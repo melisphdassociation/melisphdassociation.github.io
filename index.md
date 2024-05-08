@@ -11,5 +11,7 @@ This association started in 2023 as a small project from a group of motivated pr
 To help cover these goals we have different comittees with their own aims and activities. If you are interested in joining one of the comittees please check out the links 💪🏼!
 
 
-General slack link: [general_slack](https://melis-phd.slack.com/archives/C05DPSV6UKV)
+slack link: [general_slack](https://melis-phd.slack.com/archives/C05DPSV6UKV)
+
+
 Mail:melistes.upf@gmail.com

@@ -12,4 +12,7 @@ Becoming part of this comittee will be an asset in your career development. Don'
 
 
 
+Contact link: [Seminars_Commitee](https://melis-phd.slack.com/archives/C06DVKS4UJ3)
+
+
 ![](assets/images/seminaris.jpg)

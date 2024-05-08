@@ -5,6 +5,9 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		{% seo %}
+		{% if site.favicon %}
+			<link rel="icon" href="{{ site.favicon | relative_url }}" sizes="any" type="image/svg+xml">
+		{% endif %}
 		<link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 	</head>
 	<body>
@@ -14,7 +17,7 @@
 			<nav class="left-sidebar">
 				<h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 				{% if site.logo %}
-					<img src="{{site.logo | relative_url}}" alt="MELIS PhD Association logo." />
+					<img src="{{ site.logo | relative_url }}" alt="MELIS PhD Association logo." />
 				{% endif %}
 				<p>{{ site.description | default: site.github.project_tagline }}</p>
 				<div class="announcements">

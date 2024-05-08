@@ -7,3 +7,5 @@ Could you imagine a group of friends without linked members? Or a company whose 
 - MELIS PhD dinner 🍝
 - Welcome Week 🙋‍♀️🙋‍♂️
 - PhD retreat 🕺
+
+Contact link: [Social_Commitee](https://melis-phd.slack.com/archives/C06EFNBG8AF)

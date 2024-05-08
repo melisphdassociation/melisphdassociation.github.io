@@ -16,7 +16,7 @@ Committee dedicated to the mental health and physical health of PhD students. He
 [📣Harassment Protocol](harassment_protocol.html)
 
 
-
+Contact link: [Wellbeing_Commitee](https://melis-phd.slack.com/archives/C06JR77UMJ6)
 
 ![alt](assets/images/healthcare.jpeg){: width="1000" }
 

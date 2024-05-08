@@ -4,4 +4,4 @@ This comitee stems from the idea that in academia, we all work in very specializ
   
 This comitee is devoted to provide additional training to all MELIS members in the shape of short or intensive courses. These courses are being organised right now and will combine theory and hands-on practice. In collaboration with the Genomics Core Facility, the Scientific Computing Core Facility and the Flux Cytometry Core Facility, the training comitee is trying to assess the expertise and interest of MELIS members to organize the most suitable and popular courses! More to come, stay tuned! 🤓
 
-Contact link: [TrainingCommitee](https://melis-phd.slack.com/archives/C06K3SDBF4H)
+Contact link: [Training_Commitee](https://melis-phd.slack.com/archives/C06K3SDBF4H)

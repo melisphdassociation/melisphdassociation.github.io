@@ -15,11 +15,13 @@
 			<header class="header">
 			</header>
 			<nav class="left-sidebar">
-				<h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-				{% if site.logo %}
-					<img src="{{ site.logo | relative_url }}" alt="MELIS PhD Association logo." />
-				{% endif %}
-				<p>{{ site.description | default: site.github.project_tagline }}</p>
+				<div class="page-title">
+					<h1 class="title"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+					{% if site.logo %}
+						<img class="logo" src="{{ site.logo | relative_url }}" alt="MELIS PhD Association logo." />
+					{% endif %}
+					<p>{{ site.description | default: site.github.project_tagline }}</p>
+				</div>
 				<div class="announcements">
 					<h2>📢 Announcements</h2>
 					{% for announcement in site.announcements %}

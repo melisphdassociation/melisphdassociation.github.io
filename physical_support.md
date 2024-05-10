@@ -45,6 +45,11 @@ Centre nearby for surf, paddle surf, running, etc.
 
 Link: [Espaidemar](https://www.espaidemar.cat/)
 
+# PRBB Sustainability Group
+
+If you wish to participate in the PRBB Sustainability Group you can join us the first Wednesday of every month at 13:00 in the Lab Cafe or email us at sustainability@prbb.eu. 
+ 
+
 
 # Boulder Climbing
 

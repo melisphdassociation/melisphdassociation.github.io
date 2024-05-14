@@ -14,7 +14,7 @@
 		<div class="left-sidebar-grid">
 			<header class="header">
 			</header>
-			<nav class="left-sidebar">
+			<div class="left-sidebar">
 				<div class="page-title">
 					<a href="{{ "/" | absolute_url }}">
 					{% if site.logo %}
@@ -25,19 +25,21 @@
 					</a>
 					<!--p>{{ site.description | default: site.github.project_tagline }}</p-->
 				</div>
-				<div class="announcements">
-					<h2>📢 Announcements</h2>
-					{% for announcement in site.announcements %}
-						{{ announcement | markdownify }}
-					{% endfor %}
+				<div>
+					<div class="announcements">
+						<h2>📢 Announcements</h2>
+						{% for announcement in site.announcements %}
+							{{ announcement | markdownify }}
+						{% endfor %}
+					</div>
+					<br>
+					<nav class="committees">
+						{% for committee in site.data.committees %}
+							<p><a href="{{ committee.file | replace: ".md", ".html" | relative_url }}">{{ committee.name }}</a></p>
+						{% endfor %}
+					</nav>
 				</div>
-				<br>
-				<div class="committees">
-					{% for committee in site.data.committees %}
-						<p><a href="{{ committee.file | replace: ".md", ".html" | relative_url }}">{{ committee.name }}</a></p>
-					{% endfor %}
-				</div>
-			</nav>
+			</div>
 			<main class="main-content">
 				{{ content }}
 			</main>

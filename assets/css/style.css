@@ -39,7 +39,6 @@ body {
 	display: flex;
 	gap: 1rem;
 	flex-direction: row;
-	align-items: center;
 }
 .left-sidebar-grid > .footer {
 	grid-area: footer;

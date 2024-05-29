@@ -13,6 +13,6 @@ To help cover these goals we have different comittees with their own aims and ac
 
 slack link: [general_slack](https://melis-phd.slack.com/archives/C05DPSV6UKV)
 
-Mail: melistes.upf@gmail.com
+Mail: phdstudentscommittee.melis@upf.edu
 
 Twitter: [@MELIS_PhDs](https://x.com/MELIS_PhDs?t=K1gucV2ml7iLRrR3NukR0g&s=08)

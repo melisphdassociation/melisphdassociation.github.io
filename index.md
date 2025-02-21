@@ -15,4 +15,4 @@ slack link: [general_slack](https://melis-phd.slack.com/archives/C05DPSV6UKV)
 
 Mail: phdstudentscommittee.melis@upf.edu
 
-Twitter: [@MELIS_PhDs](https://x.com/MELIS_PhDs?t=K1gucV2ml7iLRrR3NukR0g&s=08)
+Bluesky: [@MELIS_PhDs](https://bsky.app/profile/phdsmelisupf.bsky.social)
